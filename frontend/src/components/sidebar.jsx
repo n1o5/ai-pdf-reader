@@ -20,7 +20,7 @@ export default function Sidebar({ onUpload, uploadedFiles, isUploading }) {
     <aside className="sidebar">
       <div className="sidebar-header">
         <div className="logo-mark">◈</div>
-        <span className="logo-text">DOCMIND</span>
+        <span className="logo-text">PDF READER</span>
       </div>
 
       <div
